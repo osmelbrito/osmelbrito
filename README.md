@@ -5,13 +5,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/osmelbrito">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=platic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 [![OMB GitHub stats](https://github-readme-stats.vercel.app/api?username=osmelbrito)](https://github.com/osmelbrito/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmelbrito&layout=compact)](https://github.com/osmelbrito/github-readme-stats)
+
+## Favorite Technologies
 
 
 <!--

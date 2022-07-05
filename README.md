@@ -19,7 +19,8 @@
  <img src="https://img.shields.io/badge/-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=0078D6" style="max-width: 100%;"/>
 <br>
 <strong>Databases</strong><br>
-  
+   <img src="https://img.shields.io/badge/-Oracle-informational?style=flat&amp;logo=oracle&amp;logoColor=white&amp;color=A81D33" style="max-width: 100%;">  
+   <img src="https://img.shields.io/badge/-PostgreSQL-informational?style=flat&amp;logo=postgresql&amp;logoColor=white&amp;color=4169E1" style="max-width: 100%;">
 <strong>Programming Languages</strong><br>
   
 <!--

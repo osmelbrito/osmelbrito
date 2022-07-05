@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmelbrito&layout=compact)](https://github.com/osmelbrito/github-readme-stats)
 
 ## Favorite Technologies
-
+ <img src="https://img.shields.io/badge/-Debian-informational?style=flat&amp;logo=debian&amp;logoColor=white&amp;color=A81D33" style="max-width: 100%;"/>
 
 <!--
 **osmelbrito/osmelbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

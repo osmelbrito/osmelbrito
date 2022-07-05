@@ -1,11 +1,11 @@
-### Hi there 👋
+### Osmel Brito-Bigott 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/osmelbrito/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/osmelbrito">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
